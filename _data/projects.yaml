@@ -26,6 +26,11 @@
   when_url: http://symfony.com/blog/symfony-4-0-0-released
   done: true
   
+- name: O2System Framework 5.0
+  url: https://github.com/o2system/framework
+  when: August 2017
+  done: true
+  
 - name: Sylius
   url: http://sylius.org/blog/sylius-v1-0-0-beta-3-now-available
   when: September 2017
